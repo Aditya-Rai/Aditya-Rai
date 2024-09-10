@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a AI/ML Engineer with 6 months of experience for now. Love to code and learn new things everyday in the field of Artificial Intelligence and Machine Learning.</p>
+<p align="left">I am a AI/ML Engineer with 1.5 years of experience for now. Love to code and learn new things everyday in the field of Artificial Intelligence and Machine Learning.</p>
 
 ###
 
@@ -10,39 +10,36 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm endlessly learning AI/ML Daily<br>🎯 Goals: To be a better engineer and a better person<br>🎲 Fun fact: Love litti chokha</p>
+<p align="left">✨ Creating bugs since 3 years<br>📚 I'm endlessly learning AI/ML Daily<br>🎯 Goals: To be a better engineer and a better person<br>🎲 Fun fact: Love litti chokha</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+[![misc](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+
+[![Editors](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+
+[![vc](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,java)](https://skillicons.dev)
+
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+
+[![misc](https://skillicons.dev/icons?i=anaconda,opencv)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=redis,mongodb)](https://skillicons.dev)
+
+[![Deployments](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 
 ###
 
-![Snake animation](https://github.com/Aditya-Rai/Aditya-Rai/blob/output/github-contribution-grid-snake-dark.svg)
+
+![Snake animation](https://github.com/adityaweboccult/adityaweboccult/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
 
